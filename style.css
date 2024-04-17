@@ -1,0 +1,76 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+*{
+  text-align: center;
+}
+
+h1, h2 {
+  text-align: center;
+}
+h1, h2 {
+  color: white;
+}
+body {  
+  background-color: #4C4C4C;
+}
+
+img {
+  height: 450px;
+  width: 450px;
+}
+p img {
+  border: 5px solid black;
+}
+/* p {
+  font-size: 50px;
+} */
+p {
+  font-weight: bold;
+}
+p1,p {
+  color: white;
+}
+p3 img {
+  height: 100px;
+  width: 100px;
+}
+a {
+  color: #00d5ff;
+}
+#oi {
+
+  text-decoration: underline;
+  font-style: italic;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* SUBLINHADO */
+  /* text-decoration: underline; */
+
+/* ITALICO */
+  /* font-style: italic; */

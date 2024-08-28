@@ -1,0 +1,68 @@
+main {
+  width: 940px;
+  margin: 0 auto;
+}
+
+form {
+  margin: 40px 0;
+}
+
+form label,
+form legend {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10 px;
+}
+
+.input-padrao {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px 25px;
+  width: 50%;
+}
+
+.checkbox {
+  margin: 20px 0;
+}
+
+
+.enviar {
+  width: 40%;
+  padding: 15px 0;
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  transition: 1s all;
+  cursor: pointer;
+  ;
+}
+
+.enviar:hover {
+  background-color: red;
+  cursor: pointer;
+  transform: scale(1.2);
+
+}
+
+footer {
+  text-align: center;
+}
+
+* {
+  display: block;
+}
+
+h1 img {
+  display: block;
+  margin: 0 auto;
+  max-width: 200px;
+}
+
+
+body{
+  background-color: #4C4C4C;
+}
